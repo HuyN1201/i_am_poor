@@ -18,6 +18,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -50,6 +51,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="726" y="323" key="#com.intellij.fileTypes.FileTypeChooser/-1080.-588.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1600824787685" />
+    <state x="425" y="336" key="FileChooserDialogImpl" timestamp="1600827077641">
+      <screen x="0" y="0" width="1805" height="1163" />
+    </state>
+    <state x="425" y="336" key="FileChooserDialogImpl/0.0.1805.1163@0.0.1805.1163" timestamp="1600827077641" />
     <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1600825847412">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
