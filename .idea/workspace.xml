@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acfd057f-435d-442d-ada9-bf699c3d2e2e" name="Default Changelist" comment="" />
+    <list default="true" id="acfd057f-435d-442d-ada9-bf699c3d2e2e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,9 +27,9 @@
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -46,6 +51,27 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="726" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600824787685">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -55,36 +81,25 @@
       <screen x="0" y="0" width="1805" height="1163" />
     </state>
     <state x="425" y="336" key="FileChooserDialogImpl/0.0.1805.1163@0.0.1805.1163" timestamp="1600827077641" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1600825847412">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1600828654200">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom/-1080.-588.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1600825847412" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1600825847412">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/-1080.-588.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1600828654200" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1600828654200">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.center/-1080.-588.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1600825847412" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1600825847411">
+    <state width="1877" height="281" key="GridCell.Tab.0.center/-1080.-588.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1600828654200" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1600828654200">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.left/-1080.-588.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1600825847411" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1600825847412">
+    <state width="1877" height="281" key="GridCell.Tab.0.left/-1080.-588.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1600828654200" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1600828654200">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.right/-1080.-588.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1600825847412" />
-    <state x="440" y="94" key="SettingsEditor" timestamp="1600825431613">
+    <state width="1877" height="281" key="GridCell.Tab.0.right/-1080.-588.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1600828654200" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1600828311397">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="94" key="SettingsEditor/-1080.-588.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1600825431613" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
-          <url>file://$PROJECT_DIR$/lib/main.dart</url>
-          <line>16</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="440" y="94" key="SettingsEditor/-1080.-588.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1600828311397" />
   </component>
 </project>
