@@ -5,7 +5,7 @@ void main() {
       home: Scaffold(
     appBar: AppBar(
       backgroundColor: Colors.amberAccent,
-      title: Center(child: Text('Testing commits')),
+      title: Center(child: Text('Testing commits 2')),
     ),
     body: Center(
         child: Image(
